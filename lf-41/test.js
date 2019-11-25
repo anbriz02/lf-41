@@ -15,5 +15,4 @@ do  {
   dest = Number(readlineSync.question("Enter a destination unit: "));
   value = Number(readlineSync.question("Enter a value: "));
 } while (num < 0){
-
 }
